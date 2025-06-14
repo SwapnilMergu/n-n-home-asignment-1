@@ -1,7 +1,7 @@
 # CS5720 - Neural Networks and Deep Learning  
 ### Home Assignment 1 – Summer 2025  
 **Student Name:** Swapnil Mergu
-**Student Id:** 700774264
+**Student Id:** 700772464
 **University of Central Missouri**  
 **Course:** CS5720 Neural Networks and Deep Learning  
 
